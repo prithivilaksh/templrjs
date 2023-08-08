@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto">
+  <div class="bg-white">
     <div class="min-h-screen relative">
       <div class="h-full relative">
         <NuxtPage />
