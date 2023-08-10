@@ -7,7 +7,7 @@
             <h1 class="font-semibold leading-6 text-gray-900 text-2xl">{{ job.B }}</h1>
             <h1 class="font-normal leading-6 text-gray-400 text-base">{{ job.C }}</h1>
           </div>
-          <p class="mt-6 max-w-4xl text-sm font-medium text-gray-400">{{ job.D }}</p>
+          <p class="mt-6 max-w-4xl text-sm font-medium text-gray-500">{{ job.D }}</p>
         </div>
       </NuxtLink>
     </div>
